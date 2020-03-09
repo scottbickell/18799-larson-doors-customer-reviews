@@ -1,0 +1,145 @@
+@import 'settings';
+@import 'foundation-emails';
+// @import 'vsl-app';
+
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,700,700i&display=swap');
+
+a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+}
+
+td {
+    hyphens: none;
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    -ms-hyphens: none;
+}
+
+.view-online {
+    font-size: 11px;
+    text-align: center;
+    display: inline-block;
+
+    a {
+        color: #737373;
+        text-decoration: underline;
+    }
+}
+
+.preview-subject {
+    font-family: monospace;
+    border: 2px dashed #cccccc;
+    padding: 10px;
+    background: #ffffff;
+}
+
+a,
+a:visited,
+a:hover {
+    color: #0a0a0a;
+}
+
+.main-heading {
+    background-color: #d9d2cc;
+
+    h1 {
+        font-weight: 400;
+        font-size: 16px;
+        text-align: center;
+        margin: 0;
+    }
+
+    h1.registration {
+        font-size: 24px;
+    }
+
+}
+
+img.body-heading {
+    width: 320px;
+    height: 106px;
+}
+
+img.body-heading-03 {
+    width: 290px;
+    height: 110px;
+}
+
+img.body-heading-registration {
+    width: 284px;
+    height: 103px;
+    clear: none;
+    display: inline-block;
+}
+
+img.inline-element {
+    width: 121px;
+    height: 314px;
+    display: inline-block;
+    clear: none;
+}
+
+p.smaller {
+    font-size: 12px;
+    font-style: italic;
+}
+
+h2 {
+    font-size: 17px;
+}
+
+.footer {
+    background-color: #d9d2cc;
+
+    p {
+        font-size: 12px;
+    }
+}
+
+
+table.button table td a {
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+table.button table td {
+    text-align: center !important;
+}
+
+.no-bottom-padding {
+    padding-bottom: 0 !important;
+}
+
+th.columns table:not(.button) table.sm-icons {
+    width: 280px;
+}
+
+table.sm-icons img.sm-icon {
+    width: 30px;
+}
+
+
+
+
+@media only screen and (max-width: 616px) {
+
+    table.sm-icons img.sm-icon {
+        width: 30px;
+    }
+
+    table.body img.lowes-larson-logos {
+        width: 198px;
+        height: 47px;
+    }
+
+    table.body img.ratings-icons-horiz {
+        width: 290px;
+        height: 50px;
+    }
+
+}
