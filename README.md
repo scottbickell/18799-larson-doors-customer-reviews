@@ -1,4 +1,4 @@
-# [Larson Doors](#go-to-heading)
+# Larson Doors
 
 [Jira ticket REG-18799](https://registria.atlassian.net/browse/REG-18799)
 
