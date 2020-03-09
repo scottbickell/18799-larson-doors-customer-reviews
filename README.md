@@ -1,8 +1,6 @@
-# 18799-larson-doors-customer-reviews
-
 # Larson Doors
 
----
+[Jira ticket REG-18799](https://registria.atlassian.net/browse/REG-18799)
 
 ## Three Review emails:
 
@@ -18,3 +16,8 @@
 
 I also added an alternative set of happy/sad icons because I think the original version are sort of strange looking because they don't have any eyes.
 
+![happy-sad-faces-2.png](assets/happy-sad-faces-2.png)
+
+![mobile.png](assets/mobile.png)
+
+![desktop.png](assets/desktop.png)
